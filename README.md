@@ -206,6 +206,6 @@
 - [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
